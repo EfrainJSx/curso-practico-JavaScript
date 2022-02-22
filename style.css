@@ -1,0 +1,60 @@
+p {
+    color: #00539F;
+    width: 500px;
+    font-size: medium;
+  }
+
+
+
+  h1, #muestrsDesviacionEstandar {
+    font-size: 40px;
+    text-align: center;
+        margin: 0;
+        padding: 20px 0;
+        color: #00539F;
+        text-shadow: 1px 1px 1px black;
+  }
+
+html {
+    font-size: 10px; 
+  }
+
+html, label {
+    font-family: "Open Sans", sans-serif;
+}
+
+label{
+    font-size: 15px;
+}
+
+div {
+    background-color: #d6e6f5;
+    border: 30px;
+    margin: 100px;
+    padding: 50px;
+    border-radius: 50px;
+    border-color: aqua;
+    border: 3px solid #00539F;
+}
+
+button{
+    bottom: primary;
+    margin-top: 1.2em;
+    border: none;
+    padding: .90em;
+    background-color: skyblue;
+    color: #fff;
+    letter-spacing: 1.2px;
+    font-size: .98rem;
+    text-transform: uppercase;
+    box-shadow: -3px 5px darken(skyblue, 10%);
+    cursor: pointer;
+				transition: all 0s ease;
+
+}
+
+button:hover{
+    background-color: #1717FF;
+  cursor: pointer;
+  
+}
